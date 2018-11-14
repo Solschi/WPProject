@@ -1,0 +1,191 @@
+body{
+    background-color: black;
+    color:white;
+}
+.welcome{
+    font-size:400%;
+    text-align: center;
+    color: white;
+}
+.img_admin{
+    margin-left:45%;
+    width: 10%;
+    height: 10%;
+}
+.buton{
+    background-color: white;
+    color:black;
+} 
+.buton_logout{
+    background-color: purple;
+    color:white;
+}
+.top_menu{
+    float:left;
+    /*border:1px solid red;*/
+    width: 100%;
+    height: 40px;
+
+}
+.centru_menu{
+    /*text-align:center;*/
+    border:1px solid pink;
+
+}
+.insert_data{
+    color:black;
+    width: 90%;
+}
+
+.nav_bar{
+    width:100%;
+    /*background-color: green;*/
+}
+.nav_bar td{
+ width: 20%;
+ margin-left:1%;
+ margin-right: 1%;
+}
+.centru_left{
+    margin:2%;
+    clear:left;
+    width: 96%;
+}
+.mesaj{
+    clear:left;
+    font-size:200%;
+    color:white;
+   /* border:2px solid green;*/
+    /*background-color: rgb(143, 240, 143);*/
+    height:50px;
+    width:40%;
+    margin:2%;
+    text-align:center;
+    margin-left:auto;
+    margin-right: auto;
+    font-family: Verdana;
+}
+hr{
+    width:96;
+    margin-right: auto;
+    margin-left:auto;
+    border:1px solid #66ff99;
+}
+.chenar{
+    border:1px solid #66ff99;
+    width:30%;
+    clear: left;
+    text-align:center;
+    padding: 2%;
+    margin-top:1%;
+    margin-left:auto;
+    margin-right: auto;
+}
+.table_user{
+    width:100%;
+    /*height:100px;*/
+    /*border:3px solid red;*/
+
+}
+.table_user td{
+    text-align: center;
+    width: 25%;
+    height: 45px;
+}
+.message{
+    margin:30px auto;
+    padding:0;
+   color:#66ff99;
+    background-color:#66ff99;
+    text-align:center;
+    font-size:100%;
+}
+.table_product{
+    width:96%;
+    margin:2%;
+}
+
+.table_product td{
+    text-align: center;
+    height:100px;
+}
+.book_img{
+    width:98%;
+    height:98%;
+}
+
+.chenar_book{
+    border:1px solid #66ff99;
+    width:90%;
+    text-align: center;
+    position:relative;
+    float:left;
+    padding: 1%;
+    height:420px;
+
+}
+.chenar_manga{
+    width:90%;
+    text-align: center;
+    float:right;
+    border:1px solid #66ff99;
+    padding: 1%;
+    height:420px;
+}
+.table_comment{
+    clear:left;
+    margin:2%;
+    width:96%;
+    text-align:center;
+}
+.table_comment td{
+    height:40px;
+}
+.chenar_comment{
+    width:40%;
+    margin-right:auto;
+    margin-left:auto;
+    text-align: center;
+    padding: 1%;
+    border:1px solid #66ff99;
+
+}
+.error_center{
+    text-align: center;
+    color:red;
+	background-color: #f8b3b3;
+    width:30%;
+    padding: 1%;
+    font-weight: bold;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2%;
+    margin-bottom: 2%;
+    /*border:1px solid rebeccapurple;*/
+}
+.error_left{
+    float: left;
+    color:red;
+	background-color: #f8b3b3;
+    width:80%;
+    padding: 1%;
+    font-weight: bold;
+    text-align:center;
+    margin-top:2%;
+    margin-bottom:2%;
+    margin-left:5%;
+    /*border:1px solid rebeccapurple;*/
+}
+.error_right{
+    text-align: center;
+    color:red;
+	background-color: #f8b3b3;
+    width:80%;
+    padding: 1%;
+    font-weight: bold;
+    float: right;
+    margin-top:2%;
+    margin-bottom:2%;
+    margin-right:5%;
+    /*border:1px solid rebeccapurple;*/
+}
